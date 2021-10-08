@@ -8,3 +8,4 @@ The only ones I still use in order to no have to come up with a oneliner in Perl
 - fixnumeration: If you have problem sorting samples because A2 is sorted after A19, this will add zeroes to the left (A02)
 - popmap_maker: if your file names include the sample and population code it will make a popmap for you - file with a column with sample IDs and another of population codes.
   Lots of softwares (Stacks, FastStructure..) will ask for a popmap file with this format
+- rename_files: Use this script to rename a bunch of files (pictures) according to the directory name, check the help information (--h; -help; etc...) for more details.
