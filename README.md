@@ -9,5 +9,5 @@ The only ones I still use in order to no have to come up with a oneliner in Perl
 - popmap_maker: if your file names include the sample and population code it will make a popmap for you - file with a column with sample IDs and another of population codes.
   Lots of softwares (Stacks, FastStructure..) will ask for a popmap file with this format
 - rename_files: Use this script to rename a bunch of files (pictures) according to the directory name, check the help information (--h; -help; etc...) for more details.
-- rowmultiplier: use this to duplicate as many times as needed the rows of a file, check its help information if needed
-- 
+- row_multiplier: use this to duplicate as many times as needed the rows of a file, check its help information if needed
+- transpose: Will transpose any file in the folder. It's based in a script written by [Frederic PONT](https://sites.google.com/site/fredsoftwares/products/transpose-table)
